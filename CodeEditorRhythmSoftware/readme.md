@@ -7,3 +7,6 @@
 * Save As A File
 * Close A File
 * Open A File
+* Undo
+* Redo
+* Syntax Highlighter
