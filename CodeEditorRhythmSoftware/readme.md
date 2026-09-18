@@ -13,3 +13,4 @@
 * Copy
 * Cut
 * Paste
+* How To Buy / Subscribe
