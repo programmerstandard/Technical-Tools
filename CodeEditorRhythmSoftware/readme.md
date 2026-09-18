@@ -10,3 +10,6 @@
 * Undo
 * Redo
 * Syntax Highlighter
+* Copy
+* Cut
+* Paste
