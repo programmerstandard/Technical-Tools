@@ -1,3 +1,4 @@
+# VerbTeX LaTeX Editor by verbosus.com
 ## Latex Supported Features:
 
 * PdfLaTeX, XeLaTeX or LuaLaTeX engine to generate a PDF.
