@@ -15,3 +15,4 @@
 * Create A Project.
 * Create A New File.
 * Open Existing File.
+* Purchase VerbTex5
