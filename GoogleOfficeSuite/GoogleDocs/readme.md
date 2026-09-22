@@ -10,6 +10,7 @@
 * Download A Document.
 * Make A Copy Of A Document.
 * Save As Word Document.
-* Rename A Document,
+* Rename A Document.
+* Move To Bin.
 * Move A Document. 
 * Pay Google Docs Subscription.
