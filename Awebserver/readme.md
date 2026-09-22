@@ -15,3 +15,4 @@ It features an integrated FTP server for uploading content and is compatible wit
 * Modify Document Root.
 * Start the MariaDB Server.
 * Start the FTP Server.
+* Buy premium.
