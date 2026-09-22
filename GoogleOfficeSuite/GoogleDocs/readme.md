@@ -2,7 +2,7 @@
 
 ## Features
 
-* Create A New Dicument.
+* Create A New Document.
 * Save A New Document.
 * View Documents List.
 * Sort Documents List.
