@@ -9,6 +9,8 @@
 * Open A File
 * Open A Folder
 * Open A Recent File
+* Add A Folder 
+* Close A Folder.
 * Buy this app
 * Become a sponsor
 * Find File
