@@ -1,4 +1,4 @@
-# AndFTP File Manager
+# AndFTP File Manager by LYSESOFT
 
 ## Features
 
