@@ -9,7 +9,7 @@
 * Open A File
 * Open A Folder
 * Open A Recent File
-* Buy an app
+* Buy this app
 * Become a sponsor
 * Find File
 * Install A Plugin 
