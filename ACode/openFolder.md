@@ -13,3 +13,7 @@
 11. Tap "OK".
 12. Tap the folder name, to pick the folder to open.
 13. Tao "Check" button in the below corner.
+
+## Warning!!
+
+Be careful for a folder that consist of many files. Remove the other unused folder or non related folder from your active project.
