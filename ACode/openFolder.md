@@ -12,7 +12,8 @@
 10. Tap "USE THIS FOLDER".
 11. Tap "OK".
 12. Tap the folder name, to pick the folder to open.
-13. Tao "Check" button in the below corner.
+13. Tap "Check" button in the below corner.
+14. In the dialogue CONFIRM, tap OK button, if you know your gadget can handle it.
 
 ## Warning!!
 
