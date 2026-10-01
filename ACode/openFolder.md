@@ -17,6 +17,4 @@
 
 ## Warning!!
 
-* Be careful for a folder that consist of many files. 
-* Backup, if need it!!
-* Remove the other unused folder or non related folder from your active project.
+Be careful for a folder that consist of many files. Remove the other unused folder or non related folder from your active project.
