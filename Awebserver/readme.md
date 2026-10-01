@@ -1,6 +1,6 @@
 # AWebServer: Apache,PHP,SQL,SSH by kryz
 
-AWebServer is a wwbsite on your Android device, featuring PHP and the full capabilities of Apache.
+AWebServer is a website server on your Android device, featuring PHP and the full capabilities of Apache.
 
 PHP is A popular general-purpose scripting Language.
 
