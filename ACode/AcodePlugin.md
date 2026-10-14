@@ -7,3 +7,4 @@
 * PathIntellisense by Raunak Raj.
 * Pinch 2 Zoom by Dev. Sourav.
 * Quick Snippet Generator by Mostakim Billah.
+* Snippets by Ajit Kumar.
