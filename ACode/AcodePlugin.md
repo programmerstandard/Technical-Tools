@@ -1,6 +1,7 @@
 # Acode Plugin Lists
 
 * Acode Live Preview by Ozi Saputra.
+* Color Palette Generator by Luck Sharma.
 * Emmet by Legend Sabbir.
 * Github by Ajit Kumar.
 * Live Html by Delfin Ibn Kadafi.
