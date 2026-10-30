@@ -10,5 +10,6 @@
 | `Ctrl + G` | Go to Line ... |
 | `Ctrl + I` | Select Parent Syntax |
 | `Ctrl + K` | Find Next |
+| `Ctrl + M` | Change Language Mode |
 | `Ctrl + P` | Find A File |
 
